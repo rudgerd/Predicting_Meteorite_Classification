@@ -11,4 +11,4 @@ There is a large human collection bias that that seems to be associated with the
 
 ## Results
 
-
+The model accurately predicts the class of a collected meteorite with an accuracy of ~0.5. When looking at the confusion matrix of the model, we see that the model works best at identifying Iron and Chondrite meteors. The weakness in the classification model comes from the remainder of the meteorites seems to be from the expected randomness of meteorite flux on Earth. The classification model then tells us that there is a strong collection bias towards Iron and Chondrite Meteorites.
